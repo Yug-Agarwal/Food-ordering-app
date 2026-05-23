@@ -10,7 +10,11 @@ const Header = () => {
   return (
     <div className="header-container  dark:tw-bg-[#832a2afa]">
       <div className="logo ">
-        <img src={darkmodetoogle?"https://i.postimg.cc/tR86fW24/QuickBite-high-resolution-logo-white-transparent.png":LOGO} alt="logo" />
+        <img
+          src="/QB-logo.png"
+          alt="logo"
+          className="w-32 h-auto"
+        />
       </div>
       <div className="">
         <ul className="nav-items ">
