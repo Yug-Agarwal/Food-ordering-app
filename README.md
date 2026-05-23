@@ -4,7 +4,7 @@ A food ordering application built using React, Redux Toolkit, and Tailwind CSS, 
 
 ## Live Demo
 
-Check out the live demo of the application [here](https://food-ordering-app-one-dhruv.vercel.app/).
+coming soon
 
 
 ## Key Features
