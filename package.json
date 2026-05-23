@@ -35,14 +35,14 @@
   "main": "vite.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DHRUVKANDPAL/Food-ordering-app.git"
+    "url": "git+https://github.com/Yug-Agarwal/Food-ordering-app.git"
   },
-  "author": "Dhruv Kandpal",
+  "author": "Yug Agarwal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DHRUVKANDPAL/Food-ordering-app/issues"
+    "url": "https://github.com/Yug-Agarwal/Food-ordering-app/issues"
   },
-  "homepage": "https://github.com/DHRUVKANDPAL/Food-ordering-app#readme",
+  "homepage": "https://github.com/Yug-Agarwal/Food-ordering-app#readme",
   "browserslist": [
     "last 2 versions",
     ">.9%",
