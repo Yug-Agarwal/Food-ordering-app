@@ -9,13 +9,13 @@ const Header = () => {
   // const {loggedUser}=useContext(UserContext);
   return (
     <div className="header-container  dark:tw-bg-[#832a2afa]">
-      <div className="logo ">
-        <img
-          src="/QB-logo.png"
-          alt="logo"
-          className="w-32 h-auto"
-        />
-      </div>
+      <div className="logo">
+  <img
+  src="/QB-logo.png"
+  alt="logo"
+  style={{ width: "220px", height: "80px" }}
+/>
+</div>
       <div className="">
         <ul className="nav-items ">
           <li><Link to="/" className="nav-link dark:tw-text-zinc-200" aria-label="nav-link">HOME</Link></li>
