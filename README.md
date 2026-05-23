@@ -4,7 +4,8 @@ A food ordering application built using React, Redux Toolkit, and Tailwind CSS, 
 
 ## Live Demo
 
-coming soon
+Check out the live demo here:
+https://food-ordering-app-weld.vercel.app
 
 
 ## Key Features
